@@ -12,7 +12,7 @@ import { useRouter } from "expo-router";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Picker } from "@react-native-picker/picker";
 
-const API_URL = "http://192.168.29.46:5000";
+const API_URL = "http://https://karigar-4fu2.onrender.com29.46:5000";
 
 const SKILLS = [
   "Electrician",

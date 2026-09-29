@@ -10,7 +10,7 @@ import { useState } from "react";
 import { useRouter } from "expo-router";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const API_URL = "http://192.168.29.46:5000";
+const API_URL = "http://https://karigar-4fu2.onrender.com29.46:5000";
 
 export default function RoleScreen() {
   const router = useRouter();

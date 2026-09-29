@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import { useRouter } from "expo-router";
 
-const API_URL = "http://192.168.29.46:5000";
+const API_URL = "http://https://karigar-4fu2.onrender.com29.46:5000";
 
 const categories = [
   { name: "Electrician", icon: "⚡" },

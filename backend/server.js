@@ -38,7 +38,7 @@ mongoose
     app.listen(PORT, "0.0.0.0", () => {
       console.log(`Server running on port ${PORT}`);
       console.log(`Local: http://localhost:${PORT}`);
-      console.log(`Mobile: http://192.168.29.46:${PORT}`);
+      console.log(`Mobile: http://https://karigar-4fu2.onrender.com29.46:${PORT}`);
     });
   })
   .catch((error) => {
